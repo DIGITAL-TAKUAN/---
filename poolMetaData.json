@@ -2,5 +2,6 @@
 "name": "千手観音",
 "description": "千の手でカルダノネットワークを支えます",
 "ticker": "SENJU",
-"homepage": "https://twitter.com/senjupool"
+"homepage": "https://twitter.com/senjupool",
+"extended": "https://raw.githubusercontent.com/DIGITAL-TAKUAN/---/main/extendedMeta.json"
 }
